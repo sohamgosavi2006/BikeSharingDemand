@@ -1,6 +1,6 @@
 # BikeSharingDemand
 
-🚲 Bike Sharing Demand Prediction
+🚲 Bike Sharing Demand Prediction,
 This project predicts the demand for shared bikes based on historical data and various influencing factors such as weather, season, and working days. By applying regression models and feature engineering, the project provides valuable insights into urban mobility patterns and demand forecasting.
 
 Dataset Link for Bike Sharing Demand -> https://www.kaggle.com/datasets/yasserh/bike-sharing-dataset 
